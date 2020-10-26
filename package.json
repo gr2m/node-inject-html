@@ -16,13 +16,7 @@
     }
   },
   "types": "dist/index.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/drwpow/html-import-scanner.git"
-  },
-  "bugs": {
-    "url": "https://github.com/drwpow/html-import-scanner/issues"
-  },
+  "repository": "https://github.com/drwpow/node-inject-html"
   "keywords": [
     "ssr",
     "html",
